@@ -26,8 +26,8 @@ This starter template provides everything you need to build a production-ready b
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/express-starter-db-storage.git
-cd express-starter-db-storage
+git clone https://github.com/Tarek-Saad/express-backend-starter
+cd express-backend-starter
 npm install
 ```
 
@@ -340,7 +340,7 @@ Consistent error responses:
 
 ### Getting Help
 
-1. Check the [Issues](https://github.com/yourusername/express-starter-db-storage/issues) page
+1. Check the [Issues](https://github.com/Tarek-Saad/express-backend-starter/issues) page
 2. Create a new issue with:
    - Error message
    - Steps to reproduce
@@ -378,9 +378,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 **Email**: support@yourdomain.com
-- 💬 **Discord**: [Join our community](https://discord.gg/your-server)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/express-starter-db-storage/issues)
-- 📖 **Docs**: [Full Documentation](https://docs.yourdomain.com)
+- 💬 **Discord**: [Join our community](https://discord.gg/sateenGD)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Tarek-Saad/express-backend-starter/issues)
 
 ---
 
@@ -388,7 +387,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repo if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Tarek Saad (https://github.com/Tarek-Saad)
 
 [⬆ Back to Top](#-expressjs-starter-with-database--storage)
 
